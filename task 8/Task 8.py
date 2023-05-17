@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[74]:
-
 
 import matplotlib.pyplot as plt
 
@@ -19,16 +14,3 @@ plt.pie(num,autopct='%1.1f%%',startangle=192,wedgeprops={'edgecolor' :"black"})
 plt.legend(['Yes_Fire','No_Fire'],loc='center right', bbox_to_anchor=(1, 0.5, 0.5, 0.5))
 plt.title('fire alatm gragh')
 plt.show()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
